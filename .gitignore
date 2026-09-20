@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# auth — never commit real session cookies
+state.json
+
+# scraped output + caches (regenerable)
+data-detail/
+combined.json
+combined-part*.json
+*.log
+tracxn-viewers/

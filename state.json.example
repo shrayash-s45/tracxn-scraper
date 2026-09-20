@@ -1,0 +1,12 @@
+{
+  "cookies": [
+    { "name": "at",  "value": "<paste from your logged-in Tracxn browser>", "domain": ".tracxn.com", "path": "/", "expires": 1900000000, "httpOnly": false, "secure": true, "sameSite": "Lax" },
+    { "name": "st",  "value": "<...>", "domain": ".tracxn.com", "path": "/", "expires": 1900000000, "httpOnly": false, "secure": true, "sameSite": "Lax" },
+    { "name": "tli", "value": "<...>", "domain": ".tracxn.com", "path": "/", "expires": 1900000000, "httpOnly": false, "secure": true, "sameSite": "Lax" },
+    { "name": "tci", "value": "LOGGED_IN", "domain": ".tracxn.com", "path": "/", "expires": 1900000000, "httpOnly": false, "secure": true, "sameSite": "Lax" },
+    { "name": "TID", "value": "<...>", "domain": ".tracxn.com", "path": "/", "expires": 1900000000, "httpOnly": false, "secure": true, "sameSite": "Lax" },
+    { "name": "AID", "value": "<...>", "domain": ".tracxn.com", "path": "/", "expires": 1900000000, "httpOnly": false, "secure": true, "sameSite": "Lax" },
+    { "name": "wt",  "value": "<...>", "domain": ".tracxn.com", "path": "/", "expires": 1900000000, "httpOnly": false, "secure": true, "sameSite": "Lax" }
+  ],
+  "origins": []
+}
